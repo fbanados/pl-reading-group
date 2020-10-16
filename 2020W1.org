@@ -3,6 +3,11 @@
 We meet on Mondays at 11AM Vancouver time (online via Zoom).  We
 communicate via the ~plu-311~ departmental mailing list @ UBC.
 
+* Reading group theme for this term
+  We intend to discuss "PL papers old and new": We combine an old
+  paper with a relatively recent paper whose ideas are deeply
+  connected.
+
 * Paper Schedule
 
   | Pack | Date           | Paper                                                                         |
