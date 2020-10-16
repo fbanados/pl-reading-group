@@ -1,0 +1,3 @@
+#+TITLE: plu-311 reading group index
+
+- [[2020W1.org][2020W1 Term]]
