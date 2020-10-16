@@ -1,5 +1,8 @@
 #+TITLE: The plu-311 "peak-of-apocalypse" 2020W1 term reading group
 
+We meet on Mondays at 11AM Vancouver time (online via Zoom).  We
+communicate via the ~plu-311~ departmental mailing list @ UBC.
+
 * Paper Schedule
 
   | Pack | Date           | Paper                                                                         |
