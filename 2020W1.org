@@ -15,8 +15,8 @@ communicate via the ~plu-311~ departmental mailing list @ UBC.
   |    1 | Sept 28th 2020 | Robert W. Floyd, [[https://people.eecs.berkeley.edu/~necula/Papers/FloydMeaning.pdf][Assigning meaning to programs]] (1967)                         |
   |      | Oct 5th 2020   | Peter O'Hearn, [[https://dl.acm.org/doi/10.1145/3371078][Incorrectness logic]] (2020)                                     |
   |    2 | Oct 19th 2020  | Donald Knuth, [[https://link.springer.com/article/10.1007/BF01692511][Semantics of context-free languages]] (1968)                      |
-  |      | Oct 29th 2020  | Van Wyk et al., [[https://www.sciencedirect.com/science/article/pii/S0167642309001099][Silver: An extensible attribute grammar system]] (2010)         |
-  |    3 |                | Owicki and Gries, [[https://link.springer.com/article/10.1007/BF00268134][An Axiomatic Proof Technique for Parallel Programs I]] (1975) |
+  |      | Nov 9th 2020   | Van Wyk et al., [[https://www.sciencedirect.com/science/article/pii/S0167642309001099][Silver: An extensible attribute grammar system]] (2010)         |
+  |    3 | Nov 23rd 2020  | Owicki and Gries, [[https://link.springer.com/article/10.1007/BF00268134][An Axiomatic Proof Technique for Parallel Programs I]] (1975) |
   |      |                | Stephen Brookes, [[https://www.sciencedirect.com/science/article/pii/S0304397506009248][A semantics for concurrent separation logic]] (2007)           |
 
 * Possible future pack suggestions
